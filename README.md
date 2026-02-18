@@ -1,7 +1,5 @@
-Hello, I'm AutomaticControl. 
-
-
-
+Hello, 
+**I'm AutomaticControl9** 
 
 
 
@@ -79,3 +77,6 @@ Network Security, Vulnerability Scanner, Threat Intelligence, Risk Assessment, R
 
 <a href="https://github.com/digital-mark-cyber/How-to-Apply-Open-Source-Intelligence-OSINT-with-Python"><img src="https://img.shields.io/badge/-OSINT-0085C7?&style=for-the-badge&logo=OSINT&logoColor=white" /></a>
 
+## Project 04
+**GRC-Security-Writing-Portfolio**
+<a href="https://github.com/AutomaticControl9/GRC-Security-Writing-Portfolio"><img src="https://img.shields.io/badge/-GRC-Writing Portfolio-C74200?&style=for-the-badge&logo=Writing Portfolio&logoColor=white" /></a>
