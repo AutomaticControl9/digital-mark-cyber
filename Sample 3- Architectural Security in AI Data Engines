@@ -35,8 +35,8 @@ ACID stands for:
 
 In a fragmented architecture:
 
-- **Relational data** (product prices, user permissions) lives in one database.
-- **Vector embeddings** (semantic representations) live in another.
+**Relational data** (product prices, user permissions) lives in one database.
+**Vector embeddings** (semantic representations) live in another.
 
 This creates a **Consistency Gap**.
 
@@ -260,23 +260,16 @@ ISO 27001 (A.12.6.1 – Technical Vulnerability Management)
 Running three specialized databases for one AI application creates unnecessary complexity.
 
 It results in:
-
 Larger attack surfaces
-
 Higher operational overhead
-
 Increased licensing costs
-
 Synchronization failures
 
 A Unified, Pluggable Engine offers a better architectural philosophy.
 
 It prioritizes:
-
 Simplicity
-
 Security
-
 Operational efficiency
 
 In the AI era, the winning architecture is clear:
