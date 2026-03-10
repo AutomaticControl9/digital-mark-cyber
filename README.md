@@ -81,5 +81,5 @@ Network Security, Vulnerability Scanner, Threat Intelligence, Risk Assessment, R
 **Technical-Writing-Portfolio**
 
 <a href="https://github.com/AutomaticControl9/Technical-Writing-Portfolio">
-  <img src="https://img.shields.io/badge/-GRC-0085C7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TEchnical Wiriting Portfolio-0085C7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
